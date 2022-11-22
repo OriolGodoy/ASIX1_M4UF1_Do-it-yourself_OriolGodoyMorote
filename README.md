@@ -1,52 +1,33 @@
-# Reglas CSS:
-#### Regla 1:
-· Mediante un selector universal, hacer que todo el color de texto sea blanco.
-#### Regla 2:
-· El elemento _body_ tendra margen 0%.
-#### Regla 3:
-· Mediante el selector id "header" hacer que:
-· Tenga una altura de 100vh
+# ASIX1_M4UF1A7_Do_it_yourself_SergiRafael
 
-· Ruta de fondo de imagen (../img/header.jpg)
+1. Añadir un icono de pagina con  [Font Awesome](https://fontawesome.com/)
 
-· Posicion de fondo __centrado__
+2. Cambiamos el tipo de fuente del documento con [Google Fonts](https://fonts.google.com/)
 
-· Tamaño de fondo __cover__
-#### Regla 4:
-· Todos los h1 dentro de "header":
+3. Mediante una hoja de **estilos externos** se ha de aplicar formato a la página web de manera que:
 
-· Color de texto __blanco__
 
-· Tamaño de letra _50px_
+   * Regla 1: Poner `*` para cambiar el tipo de fuente de documento
 
-· Texto alineado al __centro__
-#### Regla 5:
-· Mediante un selector id "main":
+   * Regla 2: Poner toda la pagina `centrada` con el elmento `body`
 
-· Padding de izquierda y derecha __20%__
+   * Regla 3: Poner los elementos `h1` subrayados por arriba con `text-decoration:overline`, alineado al `centro` y de color `red`
+  
+   * Regla 4: Poner los selectroes de color `solid darkcyan 1px` y ponerle un fondo `border-radius` de `5px`
+  
+   * Regla 5: Poner (id) universal que tengan color `lightgoldenrodyellow`
+  
+   * Regla 6: Poner el `selector h4` de color de fondo `darkcyan` de relleno `2px` y las esquinas de `15px`
+  
+   * Regla 7: Poner los `selectores h2` y `(id) universal` de color de fondo `black` de relleno `2px` y las esquinas de `7px`
+  
+   * Regla 8: Poner los `elementos h3` son de color de fondo `background-color:blue` con un relleno de `25px` y esquinas redondeadas de `30px`
+ 
+   * Regla 9: Poner `img` que tenga un ancho `width 50%`, un `border:solid blue 10px`, redondeadas a un `30px` con un `display:block` y una margen `margin:auto`
+  
+   * Regla 10: Poner a la tabla `table` poner un borde `border-collapse:collapse;`, ademas de ese borde le ponemos otro de color `border:red` con un grosor de `15px` i que sea `solid`
+4. Las frases Combinator selectors, Pseudo-class selectors, Pseudo-elements selectors y Attribute selectors, encontradas en el documento html, han de estar vinculadas (utilizar la etiqueta a) el siguiente enlace:
 
-· Color de fondo __purple__
-#### Regla 6:
-· Todas las "p" que esten dentro de "main":
+https://www.slimfaq.com/hotgamerz/6747-reglas/28294-reglas-de-rocket-league
 
-· Tamaño de letra __20px__
-#### Regla 7:
-· Todos los h2 que esten dentro de "main":
 
-· Tamaño de letra: __200%__
-#### Regla 8:
-· Con un selector tipo "img":
-
-· Anchura de imagen __100%__
-#### Regla 9:
-· Con un selector tipo "a":
-
-· Sin decoración de texto
-
-· Color de letra __rojo__
-#### Regla 10:
-Con un selector tipo "iframe":
-
-· Tenga una altura de __400px__
-
-· Tenga una anchura de __100%__
